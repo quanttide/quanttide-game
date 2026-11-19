@@ -1,0 +1,9 @@
+[submodule "apps/qtgame-tycoon"]
+	path = apps/qtgame-tycoon
+	url = https://github.com/quanttide/qtgame-tycoon.git
+[submodule "apps/qtgame-war"]
+	path = apps/qtgame-war
+	url = https://github.com/quanttide/qtgame-war.git
+[submodule "apps/qtgame"]
+	path = apps/qtgame
+	url = https://github.com/quanttide/qtgame.git
