@@ -7,3 +7,6 @@
 [submodule "apps/qtgame"]
 	path = apps/qtgame
 	url = https://github.com/quanttide/qtgame.git
+[submodule "apps/qtgame-love"]
+	path = apps/qtgame-love
+	url = https://github.com/quanttide/qtgame-love.git

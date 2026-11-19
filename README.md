@@ -6,7 +6,7 @@
 
 ## 目录
 
-- `apps/` — 应用：qtgame（业务入口）、qtgame-tycoon（模拟经营）、qtgame-war（战旗）
+- `apps/` — 应用：qtgame（业务入口）、qtgame-tycoon（模拟经营）、qtgame-war（战旗）、qtgame-love（恋爱）
 
 ## 许可
 
