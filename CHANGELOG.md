@@ -8,6 +8,7 @@
 
 ## [Unreleased]
 
+- 新增子模块：`data/library` → quanttide-library-of-game-development（量潮游戏研发图书馆），首收 `taptap/` 上架参考（H5 小游戏通道、流程、资质、物料、包体与 MCP 工具）与《TapTap 认证申请公函》模板
 - 挂载既有仓：`apps/qtgame-love` → qtgame-love（量潮恋爱游戏，以 fiction 为原型、创始人已授权公司）
 - 挂载既有仓：`apps/qtgame-tycoon` → qtgame-tycoon（量潮模拟经营游戏）、`apps/qtgame-war` → qtgame-war（量潮战旗游戏，与兵旗推演域双挂）
 - 注册业务入口：`apps/qtgame` → qtgame（量潮游戏业务入口，React 网站）

@@ -7,6 +7,7 @@
 ## 目录
 
 - `apps/` — 应用：qtgame（业务入口）、qtgame-tycoon（模拟经营）、qtgame-war（战旗）、qtgame-love（恋爱）
+- `data/library/` — 参考资料：发行平台、工具与规范，首收 TapTap 上架参考
 
 ## 许可
 

@@ -10,3 +10,6 @@
 [submodule "apps/qtgame-love"]
 	path = apps/qtgame-love
 	url = https://github.com/quanttide/qtgame-love.git
+[submodule "data/library"]
+	path = data/library
+	url = https://github.com/quanttide/quanttide-library-of-game-development.git
