@@ -13,3 +13,6 @@
 [submodule "data/library"]
 	path = data/library
 	url = https://github.com/quanttide/quanttide-library-of-game-development.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-game-development.git
